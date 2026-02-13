@@ -12,13 +12,13 @@ This experiment (Experiment 5) focuses on two essential Python data structures: 
 # Theoretical Background: Python Sets
 Introduction to Sets A Set is an unordered collection of items where every element is unique. Sets are written with curly brackets {}. They are particularly useful when the presence of an item matters more than its order or frequency.
 
-# Key Properties of Sets Unordered: Set items do not have a defined order; they may appear in different orders every time you use them and cannot be referred to by an index.
+ Key Properties of Sets Unordered: Set items do not have a defined order; they may appear in different orders every time you use them and cannot be referred to by an index.
 
-# Unique Elements: Sets automatically handle duplicates. If the same value is added twice, the set will only store it once.
+ Unique Elements: Sets automatically handle duplicates. If the same value is added twice, the set will only store it once.
 
-# Mixed Data Types: A single set can contain various data types, including strings, integers, and boolean values.
+ Mixed Data Types: A single set can contain various data types, including strings, integers, and boolean values.
 
-# Boolean Equivalence: In Python sets, the values True and 1 are considered the same value and are treated as duplicates.
+ Boolean Equivalence: In Python sets, the values True and 1 are considered the same value and are treated as duplicates.
 
 Set Operations and Logic The experiment covers mathematical operations that are fundamental to set theory:
 Union (|): Combines all elements from both sets.
