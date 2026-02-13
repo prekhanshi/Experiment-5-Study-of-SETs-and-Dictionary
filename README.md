@@ -3,7 +3,7 @@
 # Experiment Overview
 This experiment (Experiment 5) focuses on two essential Python data structures: Sets and Dictionaries. The objective is to understand their unique properties—such as uniqueness in sets and key-value mapping in dictionaries—and to implement various operations like mathematical set logic, data retrieval, and record updating. These structures are vital for Exploratory Data Analysis (EDA) and efficient data management.
 
-# Name: PREKHANSHO KUMBHAKAR
+# Name: PREKHANSHI KUMBHAKAR
 
 # PRN: 25070123149
 
